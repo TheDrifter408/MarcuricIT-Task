@@ -9,7 +9,7 @@ Thank you to MarcuricIT for giving me the chance to participate in this task.
 ## To Run the Project:
 
 ```
-git clone 
+git clone git@github.com:TheDrifter408/MarcuricIT-Task.git
 ```
 then,
 ```
